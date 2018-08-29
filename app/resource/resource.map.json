@@ -1,0 +1,11 @@
+{
+  "index/index": {
+    "js": [
+      "//localhost:8080/static/yibaoquan-web/common.js",
+      "//localhost:8080/static/yibaoquan-web/project.js",
+      "//localhost:8080/static/yibaoquan-web/index/index.js",
+      "//localhost:8080/static/yibaoquan-web/loaded.js"
+    ],
+    "css": []
+  }
+}
